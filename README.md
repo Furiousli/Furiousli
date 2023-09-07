@@ -1,4 +1,4 @@
-<h1 align="center">Salut👋, je suis Furisouli</h1>
+<h1 align="center">Salut👋, je suis Furiousli</h1>
 <h3 align="center">Petit dévellopeur en herbe et lycéen</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furiousli&label=Nombre%20de%20vu&color=96a0a6&style=plastic" alt="furiousli" /> </p>
