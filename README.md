@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furiousli&label=Nombre%20de%20vu&color=96a0a6&style=plastic" alt="furiousli" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furiousli" alt="furiousli" /></a> </p>
-
 - 🔭 Je travaille pour moi ! 
 
 - 🌱 J'apprend actuellement **le codage web**
