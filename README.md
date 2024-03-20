@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furiousli" alt="furiousli" /></a> </p>
 
-- 🔭 Je travaille chez [Prexium Airlines](https://prexiumairlines.fr)
+- 🔭 Je travaille pour moi ! 
 
 - 🌱 J'apprend actuellement **le codage web**
 
-- 👯 Je collabore avec **Aiwoz**
-
 - 📫 Me contacter **emmanuelibanez61@gmail.com**
 
-- ⚡ Fun fact **Mon meilleur pote et Aiwoz**
+- ⚡ Fun fact j'apprend le build de jeux vidéo !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
